@@ -19,4 +19,4 @@
 manejando la información de las personas con acceso a ella,
 independientemente de su rol.
 
-# Nombre del Proyecto
+# Como Correr el proyecto
