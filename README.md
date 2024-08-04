@@ -2,6 +2,7 @@
 
 # Construcciondesoftware2
 -Gael Alejandro Lozano Osorio (https://github.com/gaellozano-ing)
+
 -Juan Ricardo Hincapie Vazquez (https://github.com/Ricardo-ing)
 
 # Tecnologia en que se desarrolló
