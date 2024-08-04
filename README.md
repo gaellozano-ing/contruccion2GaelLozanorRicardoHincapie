@@ -1,4 +1,4 @@
-# contruccion2GaelLozanoRicardoHincapie
+# Contruccion2GaelLozanoRicardoHincapie
 
 # Construcciondesoftware2
 -Gael Alejandro Lozano Osorio (https://github.com/gaellozano-ing)
